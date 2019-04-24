@@ -1,1 +1,1 @@
-# express-locallibrary-tutorial 
+# «Сайт локальной библиотеки, написанный на Express (Node)».
